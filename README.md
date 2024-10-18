@@ -1,2 +1,2 @@
 # Vidas
-This is for tutorial.
+Tutorial number 2 for merging and comparing in pull request.
